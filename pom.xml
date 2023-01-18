@@ -128,4 +128,6 @@
             </plugin>
         </plugins>
     </reporting>
+<reporting>
+            </reporting>
 </project>
